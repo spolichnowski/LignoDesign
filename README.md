@@ -1,1 +1,3 @@
 # LignoDesign
+
+![Lignodesign](lignodesign.png)
